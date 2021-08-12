@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning about System Security at UIT and UIUX by myself. I also work at a photographer at the same time
 
 - 📫 You can reach me through these media social:
-  + Facebook: fb.com/nartnahnn
+  + Facebook: https://www.facebook.com/nartnahnn
   + Linkedln: https://www.linkedin.com/in/nhan-tran-1604/
   + Behance: https://www.behance.net/nartnahn
