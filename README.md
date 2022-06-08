@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nhan, you can also call me Nart, from Vietnam
 
-- 👀 I’m interested in everythings that belonging to art such as drawing, designing ...
+- 👀 I’m interested in everythings that belonging to art such as drawing, designing ... and coding
 
-- 🌱 I’m currently learning about System Security at UIT and UIUX by myself. I also work at a photographer at the same time
+- 🌱 I’m currently learning about Information System at UIT.
 
 - 📫 You can reach me through these media social:
   + Facebook: https://www.facebook.com/nartnahnn
