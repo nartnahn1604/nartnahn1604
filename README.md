@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nhan, you can also call me Nick, from Vietnam
+- 👋 Hi, I’m ta, you can also call me Nick, from Vietnam
 
 - 👀 I’m interested in everythings that belonging to art such as drawing, designing ... and coding
 
