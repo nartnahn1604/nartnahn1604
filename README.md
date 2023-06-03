@@ -6,6 +6,7 @@
     + Website: I understand about the UI system and so do the BE. I know html, css, js, reactjs for FE and ASP. NET for BE
     + Mobile: About this field, I understand about cross platform and native app. I can use react native and java for both ios and android apps
     + Desktop app: I most learn about C# so that I know about WPF for developing this one
+    + Cloud service: AWS, I have worked on it with some services: API GATEWAY, LAMBDA, RDS ...
     + And so on ...
 
 - Beside I also work as Programming Teacher at mindX and Algorithmics. I teach the kids from 5 to 17 how to think logically and program a software such game or website
